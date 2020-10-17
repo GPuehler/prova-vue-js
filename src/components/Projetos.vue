@@ -55,7 +55,7 @@ export default {
 
 </script>
 
-<style >
+<style>
     #projetos{
         margin: 0 auto;
         max-width: 300px;

@@ -1,6 +1,6 @@
 <template>
 
-  <div id="app">
+  <div  id="app">
 
     <div class="menus">
       <button @click="showMenus.showProjects = !showMenus.showProjects">Projetos</button>
